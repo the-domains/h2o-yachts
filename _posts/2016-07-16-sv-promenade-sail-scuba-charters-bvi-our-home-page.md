@@ -26,8 +26,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.yachtpromenade.com'
 title: 'SV Promenade Sail SCUBA Charters, BVI- our Home Page'
-datePublished: '2016-07-16T17:25:11.840Z'
-dateModified: '2016-07-16T17:24:23.691Z'
+datePublished: '2016-07-16T17:25:12.883Z'
+dateModified: '2016-07-16T17:24:06.203Z'
 starred: false
 sourcePath: _posts/2016-07-16-sv-promenade-sail-scuba-charters-bvi-our-home-page.md
 inFeed: true
